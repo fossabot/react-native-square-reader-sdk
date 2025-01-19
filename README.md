@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.com/square/react-native-square-reader-sdk.svg?branch=master)](https://travis-ci.com/square/react-native-square-reader-sdk)
 [![npm version](https://badge.fury.io/js/react-native-square-reader-sdk.svg)](https://badge.fury.io/js/react-native-square-reader-sdk)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-square-reader-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-square-reader-sdk?ref=badge_shield)
 
 This repo contains a React Native plugin for Square [Reader SDK]. Reader SDK for
 React Native supports the following native Reader SDK versions:
@@ -92,3 +93,6 @@ limitations under the License.
 [technical reference]: https://github.com/square/react-native-square-reader-sdk/tree/master/docs/reference.md
 [troubleshooting guide]: https://github.com/square/react-native-square-reader-sdk/tree/master/docs/troubleshooting.md
 [`reader-sdk-react-native-quickstart`]: https://github.com/square/react-native-square-reader-sdk/tree/master/reader-sdk-react-native-quickstart
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-square-reader-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-square-reader-sdk?ref=badge_large)
